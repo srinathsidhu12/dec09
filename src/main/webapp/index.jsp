@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello World war project1.0!" %></h2>
+<h2><%= "Hello World war project1.23" %></h2>
 </body>
 </html>
